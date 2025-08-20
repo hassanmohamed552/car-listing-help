@@ -31,7 +31,7 @@ flowchart TD
 1. Clone the repo
 ``` 
 git clone https://github.com/hassanmohamed552/car-listing-help.git
-cd car-listing-assistant
+cd car-listing-help
 ``` 
 2. Create a .env file
 ```
